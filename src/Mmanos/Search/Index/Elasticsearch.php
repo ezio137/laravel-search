@@ -151,7 +151,7 @@ class Elasticsearch extends \Mmanos\Search\Index
 			);
 		}
 		
-		$query['body']['query']['filtered']['query']['bool'][$occur][][$match_type] = $definition;
+		$query['body']['query']['bool'][$occur][][$match_type] = $definition;
 		
 		return $query;
 	}
