@@ -1,5 +1,5 @@
 {
-    "name": "mmanos/laravel-search",
+    "name": "ezio137/laravel-search",
     "description": "A search package for Laravel 5.",
     "keywords": ["laravel", "search", "lucene", "zendsearch", "elasticsearch", "algolia", "full", "text"],
     "authors": [
